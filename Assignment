@@ -5,4 +5,37 @@
  </head>
  <body bgcolor="white" style="width:60%;margin:auto;">
  <h1 style="height:20px"> <b>Nehru Arts And Science College Kanhangad </b></h1>
- <omg src=
+ <img src="IMG_20201108_123017.jpg" alt="NACS image" style="width:90%; border:3px ridge black">
+ <p style="color:white;background-color:black;font-size:14px;">
+ <em>Early in 1964 the enlightened public of Kanhangad and nileshwar resolved to honour the memory of Jawaharlal Nehru,
+ the architect of modern India by undertaking education and cultural activities
+ In this educationally backward area.In pursuit of this idea 
+ a dedicated and learned team set up in 1966 an educational society known as
+ "<b>The Nehru Memorial Education Society</b>" under the distinguished 
+ Presidentship of the late <i>Shot.C.K.Nair</i> following which the society was duly registered.</em>
+ </p></br>
+ <he />
+ <h2>Programs offered</h2>
+ <ul style="list-style-type:square;">
+ <li>B.sc Physics</li>
+ <li>B.sc Mathematics </li>
+ <li>B.sc Statistics </li>
+ <li>B.sc Zoology </li>
+ <li>B.sc Plant science </li>
+ <li>B.sc Polymer chemistry </li>
+ <li>B.A History </li>
+ <li>B.A Economics </li>
+ <li>B.A Malayalam </li>
+ <li>B.Com</li>
+ </ul>
+ <hr/>
+ <h2>Class Timings</h2>
+ <ol type="a">
+ <li>9.30-10.30</li>
+ <li>10.30-11.30</li>
+ <li>11.30-12.30</li>
+ <li>1.30-2.30</li>
+ <li>2.30-3.30</li>
+ </ol>
+ </body>
+</html>
